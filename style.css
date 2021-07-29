@@ -7,6 +7,9 @@
 .client img{
     width: 150px;
 }
+.client-prof{
+    font-weight: 500;
+}
 .gray-bike{
     filter: grayscale(1);
 }
